@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "macOS App",
+    "status": "planned",
+    "description": "Same feature as the iOS app (maybe not from the beginning). With iCloud sync for your bookmarks."
+  },
+  {
+    "id": "2",
+    "title": "improved watchOS app",
+    "status": "idea",
+    "description": "Answer Daily Kanji questions from your wrist; watchOS 10 features and style."
+  },
+  {
+    "id": "3",
+    "title": "Improved Search",
+    "status": "idea",
+    "description": "Better prioritization of results, sorting, tokenization of searched terms, automatically solve inflections",
+    "isFinished": false
+  },
+  {
+    "id": "4",
+    "title": "Tags for Bookmarks",
+    "status": "idea",
+    "description": "Replacing lists; one bookmark can have multiple tags",
+    "isFinished": false
+  },
+  {
+    "id": "5",
+    "title": "Study words",
+    "status": "idea",
+    "description": "Similar to Daily Kanji, a flashcard like feature to study the words in one of your bookmark lists",
+    "isFinished": false
+  }
+]
